@@ -18,9 +18,9 @@ sharded hospital's `meta.json` there pins the commit here (`raw_commit`)
 that holds its current shards, and commits land here first, so the pair is
 always consistent.
 
-Shard history **before 2026-08-26** lives in the main repo's git history
-(the layer moved here on that date to keep the main repo clonable); from
-that date on, `git log data/<slug>/` in this repo is the payer-level
+This repo carries the complete shard history from the archive's first day
+(the layer was split out of the main repo on 2026-08-26, with its earlier
+history grafted here) — `git log data/<slug>/` is the full payer-level
 changelog per hospital.
 
 Data is public domain (CC0), as published by the hospitals themselves.
