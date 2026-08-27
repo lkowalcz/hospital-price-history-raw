@@ -1,46 +1,115 @@
- INCLU",27258,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8509,,,,,,,case rate,5031.68,10011,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
- eg  Frost suture ",67875,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,102.453,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
- non-cardiac   each additional lesion with separate injection  List sep",76979,CPT,,,,Outpatient,,,,,Horizon BCBS of NJ,Commercial HMO,1015.85,,,,,,,fee schedule,767.7235,1015.85,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
- non-cardiac   initial lesion",76978,CPT,,,,Outpatient,,,,,Horizon BCBS of NJ,JCC001_ JCC002 Indemnity,1391.9,,,,,,,fee schedule,116.75,1391.9,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
- reconstruction in-depth   separate procedure ",44314,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,6781,,,,,,,fee schedule,5031.68,10011,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-"1-Adjunctive blue light cystoscopy with
-"1-Adjunctive blue light cystoscopy with
-"1-Arthrocentesis  aspiration and or
-"1-Arthrocentesis  aspiration and or
-"1-Arthrocentesis  aspiration and or
-"1-Biopsy  single or multiple  or local
-"1-Biopsy  single or multiple  or local
-"1-Colposcopy of the entire vagina  with
-"1-Colposcopy of the entire vagina  with
-"1-Colposcopy of the entire vagina  with
+"1-ANTERIOR INSTRUMENTATION  4 TO 7
+VERTEBRAL SEGMENTS  LIST SEPARATELY IN ADDITION TO CODE FOR PRIMARY PROCEDURE ",22846,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,2422,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-BLADDER IRRIGATION  SIMPLE LAVAGE
+AND OR INSTILLATION  CONSIDER AS TOS 04 ",51700,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,37.31,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-Catheterization and introduction of
+saline or contrast material for hysterosonography or hysterosalpingography",58340,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,67.6,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-Closure of the lacrimal punctum  by plug 
+each",68761,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,81.9,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-EXCISION OF HYPERPLASTIC ALVEOLAR
+MUCOSA  EACH SEXTANT OR QUADRANT  SPECIFY ",41828,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,112.45,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-Excision  malignant lesion  scalp  neck 
+hands  feet  genitalia  lesion diameter 0.5 cm or less",11620,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,118.95,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-Excision of lesion of mucosa and
+submucosa  vestibule of mouth  without repair",40810,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,70.85,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-INJCT SCLEROS SOLUT SINGL VEIN TOS
+03 TOS 04  POTENT COS  TOS 03 SPECIF PH ONLY",36470,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,12.155,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-INJECTION S   ANESTHETIC AGENT
+AND OR STEROID  PLANTAR COMMON DIGITAL NERVE S   EG  MORTON S NEUROMA ",64455,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,30.095,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 "1-Incision and drainage of Bartholins gland
-"1-Incision and drainage of Bartholins gland
-"1-Incision and drainage of Bartholins gland
-"1-Injection  anesthetic agent 
-"1-Injection  anesthetic agent 
-"1-Injection  anesthetic agent 
-"1-Injection  anesthetic agent 
-"1-Injection  anesthetic agent 
-"1-Repositioning of previously placed
-"1-Repositioning of previously placed
-"1-Spinal puncture  therapeutic  for drainage
-"3-1CYSTOURETHROSCOPY  WITH INSERTION
-"3-EXCISION  TUMOR  SOFT TISSUE OF LEG
-"3-EXCISION  TUMOR  SOFT TISSUE OF LEG
-"3-EXCISION  TUMOR  SOFT TISSUE OF LEG
-"3-LAPAROSCOPY  SURGICAL  ABDOMEN 
-"3-LAPAROSCOPY  SURGICAL  ABDOMEN 
-"3-LAPAROSCOPY  SURGICAL  ABDOMEN 
-"4-RECONSTRUCTION MIDFACE  LEFORT I 
-"4-RECONSTRUCTION MIDFACE  LEFORT I 
-"4-RECONSTRUCTION MIDFACE  LEFORT I 
+abscess",56420,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,65.65,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-Injection of contrast medium for
+dacryocystography",68850,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,58.5,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-Revision or removal of integrated
+neurostimulation system for bladder dysfunction  including analysis  programming  and imaging  when performed  pos",0819T,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,2422,18668,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-STEREOTACTIC COMPUTER-ASSISTED
+ NAVIGATIONAL  PROCEDURE  CRANIAL  INTRADURAL  LIST SEPARATELY IN ADDITION TO CODE FOR PRIMARY PROCEDURE ",61781,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,786.2,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-Selective catheter placement  venous
+system  first order branch  eg  renal vein  jugular vein ",36011,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,148.85,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"1-Venous catheterization for selective
+organ blood sampling",36500,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,45.5,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"2-Episiotomy or vaginal repair  by other
+than attending physician",59300,CPT,,,,Outpatient,,,,,Aetna,Commercial,8609,,,,,,,fee schedule,794.32,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"2-Excision  excessive skin and
+subcutaneous tissue  including lipectomy   submental fat pad",15838,CPT,,,,Outpatient,,,,,Aetna,Commercial,8609,,,,,,,fee schedule,654.36,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"2-Excision  malignant lesion  face  ears 
+eyelids  nose  lips  lesion diameter 0.5 cm or less",11640,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,3872,,,,,,,fee schedule,100.1,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"2-Laryngoscopy  flexible or rigid fiberoptic 
+with stroboscopy",31579,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,7317,,,,,,,case rate,97.5,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"2-Selective catheter placement  arterial
+system  initial second order thoracic or brachiocephalic branch  within a vascular family",36216,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,3872,,,,,,,fee schedule,148.85,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"2-Thoracoscopy  surgical  with thoracic
+sympathectomy",32664,CPT,,,,Outpatient,,,,,Aetna,Commercial,8609,,,,,,,fee schedule,3872,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"3-1REMOVAL OF SUBCUTANEOUS
+IMPLANTABLE DEFIBRILLATOR ELECTRODE",33272,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8104,,,,,,,case rate,1886.88,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"3-Arthroscopy  Knee  Surgical 
+Osteochondral Autograft S   Eg  Mosaicplasty   Includes Harvesting Of The Autograft ",29866,CPT,,,,Outpatient,,,,,Aetna,Commercial,9534,,,,,,,fee schedule,5332,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"3-EXCISION  TUMOR  SOFT TISSUE OF
+UPPER ARM OR ELBOW AREA  SUBCUTA NEOUS  3 CM OR GREATER",24071,CPT,,,,Outpatient,,,,,Aetna,Commercial,9534,,,,,,,fee schedule,1008.8,18668,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"3-Nasal sinus endoscopy  surgical  with
+medial or inferior orbital wall decompression",31292,CPT,,,,Outpatient,,,,,Aetna,Commercial,9534,,,,,,,fee schedule,1008.8,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"3-RADICAL RESECTION OF TUMOR  EG  SARCOMA   SOFT TISSUE OF SHOULDER
+AREA  5 CM OR GREATER",23078,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8104,,,,,,,case rate,1008.8,18668,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"3-Transcatheter Placement Of Intravascular
+Stent S   Cervical Carotid Artery  Percutaneous  With Distal Embolic Protection",37215,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,5332,,,,,,,fee schedule,5332,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"3-Vaginectomy  partial removal of vaginal
+wall ",57106,CPT,,,,Outpatient,,,,,Aetna,Commercial,9534,,,,,,,fee schedule,794.32,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"4-ABLATION  ONE OR MORE LIVER
+TUMOR S   PERCUTANEOUS  RADIOFREQUENCY",47382,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8509,,,,,,,case rate,830.622,10011,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"4-Cervical lymphadenectomy  modified
+radical neck dissection ",38724,CPT,,,,Outpatient,,,,,Aetna,Commercial,10011,,,,,,,fee schedule,4088.24,10011,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"4-RECONSTRUCTION MIDFACE  LEFORT 3
+ EXTRA AND INTRACRANIAL  WITH FOREHEAD ADVANCEMENT  EG  MONO BLOC   REQUIREING BONE GRAFTS  INCLUDES OBTAINING AUTO",21160,CPT,,,,Outpatient,,,,,Aetna,Commercial,10011,,,,,,,fee schedule,6781,10011,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"4-Reconstructive repair of pectus excavatum
+or carinatum",21740,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8509,,,,,,,case rate,4088.24,10011,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"4-Repair of retinal detachment  one or
+more sessions  cryotherapy or diathermy  with or without drainage of subretinal fluid",67101,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,6781,,,,,,,fee schedule,439.4,10011,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-ABLATION  OPEN  OF ONE OR MORE
+LIVER TUMOR S   RADIOFREQUENCY",47380,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8226,,,,,,,fee schedule,7800,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 "5-Abdomino-vaginal vesical neck
-"5-Abdomino-vaginal vesical neck
-"5-Abdomino-vaginal vesical neck
-"7-Total abdominal hysterectomy  corpus
-"7-Total abdominal hysterectomy  corpus
-"7-Total abdominal hysterectomy  corpus
-1 cm ",67850,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,26,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+suspension  with or without endoscopic control  eg  Stamey  Raz  modified Pereyra ",51845,CPT,,,,Outpatient,,,,,Aetna,Commercial,10510,,,,,,,fee schedule,7547.52,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-CHOLECYSTECTOMY  WITH
+CHOLANGIOGRAPHY",47605,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8933,,,,,,,case rate,7800,15111.36,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-EXCISION OF CHEST WALL TUMOR
+INCLUDING RIB S   WITH PLASTIC RECONSTRUCTION  WITH MEDIASTINAL LYMPHADENECTOMY",21603,CPT,,,,Outpatient,,,,,Aetna,Commercial,10510,,,,,,,fee schedule,5975.12,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-EXCISION OF CHEST WALL TUMOR
+INCLUDING RIB S   WITH PLASTIC RECONSTRUCTION  WITHOUT MEDIASTINAL LYMPHADENECTOMY",21602,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8933,,,,,,,case rate,5975.12,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-INCISION AND DRAINAGE  OPEN  OF
+DEEP ABSCESS  SUBFASCIAL   POSTERIOR SPINE  CERVICAL  THORACIC  OR CERVICOTHORACIC",22010,CPT,,,,Outpatient,,,,,Aetna,Commercial,10510,,,,,,,fee schedule,4088.24,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-LAPAROSCOPY  SURGICAL  DONOR
+NEPHRECTOMY FROM LIVING DONOR  EXCLUDING PREPARATION AND MAINTENANCE OF ALLOGRAFT ",50547,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8226,,,,,,,fee schedule,7800,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-Open treatment of slipped femoral
+epiphysis  osteotomy and internal fixation",27181,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8226,,,,,,,fee schedule,7800,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-Open treatment of slipped femoral
+epiphysis  osteotomy and internal fixation",27181,CPT,,,,Outpatient,,,,,Aetna,Commercial,10510,,,,,,,fee schedule,7800,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-Ovarian cystectomy  unilateral or
+bilateral",58925,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8226,,,,,,,fee schedule,1281.8,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-REPAIR  NONUNION OR MALUNION 
+FEMUR  DISTAL TO HEAD AND NECK  WITH ILIAC OR OTHER AUTOGENOUS BONE GRAFT  INCLUDES OBTAINING GRAFT ",27472,CPT,,,,Outpatient,,,,,Aetna,Commercial,10510,,,,,,,fee schedule,7547.52,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-REPAIR OF NONUNION OR MALUNION 
+TIBIA  BY SYNOSTOSIS  WITH FIBULA  ANY METHOD",27725,CPT,,,,Outpatient,,,,,Aetna,Commercial,10510,,,,,,,fee schedule,7800,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-Salpingectomy  complete or partial 
+unilateral or bilateral  separate procedure ",58700,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8226,,,,,,,fee schedule,5031.68,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-Salpingo-oophorectomy  complete or
+partial  unilateral or bilateral  separate procedure ",58720,CPT,,,,Outpatient,,,,,Aetna,Commercial,10510,,,,,,,fee schedule,5975.12,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-TRANSLUMINAL DILATION OF AQUEOUS
+OUTFLOW CANAL  WITH RETENTION OF DEVICE OR STENT",66175,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8933,,,,,,,case rate,1601.46,13334,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"5-VAG HYST W WO REM TURE S  W WO
+REM OVARY S  W RPR OF ENTEROCELE  SSO ",58270,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8226,,,,,,,fee schedule,1008.8,18668,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"6-LAM W EX A O DE SP CO A O CAU EQ
+WO FA  FO DIS  EG SP ST  1 OR 2 V SE CE  SSO ",63001,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,9676,,,,,,,fee schedule,5975.12,24002,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"7-INSERTION OF NEW OR REPLACEMENT
+OF PERMANENT PACEMAKER WITH TRANSVENOUS ELECTRODE S   VENTRICULAR",33207,CPT,,,,Outpatient,,,,,Aetna,Commercial,11938,,,,,,,fee schedule,599.534,11938,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"7-Laparoscopy   surgical   with vaginal
+hysterectomy  for uterus greater than 250 grams  with removal of tube s  and or ovary s ",58554,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,10148,,,,,,,case rate,1008.8,13334,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"7-Parathyroidectomy or exploration of
+parathyroid s  ",60500,CPT,,,,Outpatient,,,,,Aetna,Commercial,11938,,,,,,,fee schedule,1008.8,11938,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"7-Repair of nasal valve collapse with
+subcutaneous submucosal lateral wall implant s ",30468,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,11083,,,,,,,fee schedule,1008.8,18668,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"Pulmonology-Measurement of spirometric forced expiratory flows  before and after bronchodilator  in an infant or child through 2 years of age 
+",94012,CPT,,,,Outpatient,,,,,Cigna,JCC001_JCC002 Commercial,632.196,,,,,,,fee schedule,28.47,759.255,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
+"Ultrasound  targeted dynamic microbubble sonographic contrast characterization
+ non-cardiac   each additional lesion with separate injection  List sep",76979,CPT,,,,Outpatient,,,,,Horizon BCBS of NJ,JCC001_JCC002 PPO,1015.85,,,,,,,fee schedule,767.7235,1015.85,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 1- Place rt device marker  pros ,55876,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,524.44,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 1-Air injection into abdomen,49400,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,62.4,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 1-Anoscopy  remove for body,46608,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,91.481,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -1254,8 +1323,6 @@ ANALYZE NEUROSTIM COMPLEX,95972,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid
 ANALYZE SP INF PUMP W-REPROG,62368,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,42.926,,,,,,,fee schedule,42.926,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ANALYZE SP INF PUMP W-REPROG,62368,CPT,,,,Outpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHC,59.1058,,,,,,,fee schedule,42.926,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ANCA SCREEN EACH ANTIBODY,86036,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,48.3328,,,,,,,fee schedule,3.3762,84.35,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-AND OR STEROID  PLANTAR COMMON DIGITAL NERVE S   EG  MORTON S NEUROMA ",64455,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,30.095,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-ANESTHESIA  EACH JOINT",26340,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,195.9,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ANGINA PECTORIS AND CORONARY ATHEROSCLEROSIS,1981,APR-DRG,,,,Inpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,5994.4263,,,,,,,fee schedule,5994.4263,7610.6378,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ANGINA PECTORIS,311,MS-DRG,,,,Inpatient,,,,,Aetna Medicare Adv,JCC001_JCC002 Medicare,7787.36,,,,,,,case rate,5746.28,21860.7937,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ANGINA PECTORIS,311,MS-DRG,,,,Inpatient,,,,,Horizon BCBS of NJ,Commercial HMO,11722.2576,,,,,,,fee schedule,5746.28,21860.7937,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -1334,7 +1401,6 @@ ARTHRD ANT MIN DISCECT INTERBODY CERV BELOW C2,22554,CPT,,,,Outpatient,,,,,Cigna
 ARTHRODESIS INTERPHALANGEAL JOINT WITH,26862,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid CHIP,2165.04,,,,,,,fee schedule,1008.8,12000,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ARTHRODESIS METACARPOPHALANGEAL JOINT,26852,CPT,,,,Outpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHC,538.79,,,,,,,fee schedule,391.3,12000,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ARTHRODESIS MIDTARSAL NAVICULAR-CUNEIFO,28737,CPT,,,,Outpatient,,,,,Aetna Better Health,JCC001_JCC002 CHIP,1108.7505,,,,,,,fee schedule,760.5,13334,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-ARTHROPLASTY  ARTIFICIAL DISC   ANTERIOR APPROACH  SINGLE INTERSPACE  LUMBAR",22865,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,9676,,,,,,,fee schedule,7800,11515,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ARTHROPLASTY ELBOW; WITH MEMBRANE,24360,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,1013.3221,,,,,,,fee schedule,973.7,13334,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ARTHROPLASTY INTERPHALANGEAL JOINT; SING,26535,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid MCO,767.25,,,,,,,fee schedule,357.5,13334,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ARTHROPLASTY KNEE FEMORAL CONDYLES OR,27443,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,1405.6631,,,,,,,fee schedule,740.35,13703,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -3294,7 +3360,6 @@ CHOLECYSTECTOMY WITH C.D.E. WITHOUT CC-MCC,413,MS-DRG,,,,Inpatient,,,,,Aetna Med
 CHOLECYSTECTOMY WITH C.D.E. WITHOUT CC-MCC,413,MS-DRG,,,,Inpatient,,,,,St Agnes,Medicare,17379.9,,,,,,,case rate,13135.4,61511.9,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CHOLECYSTECTOMY WITH C.D.E. WITHOUT CC-MCC,413,MS-DRG,,,,Inpatient,,,,,United Healthcare Medicare,Medicare ISNP,17727.5,,,,,,,case rate,13135.4,61511.9,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CHOLECYSTECTOMY,2631,APR-DRG,,,,Inpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,12652.4976,,,,,,,fee schedule,12652.4976,16063.8519,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-CHOLEDOCHOENTEROSTOMY",47612,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,9788,,,,,,,case rate,7800,11515,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CHOLESTEROL  SERUM OR WHOLE BLOOD  TOTAL,82465,CPT,,,,Outpatient,,,,,Cigna,JCC001_JCC002 PPO,6.2928,,,,,,,fee schedule,0.9518,30.45,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CHOLESTEROL  SERUM OR WHOLE BLOOD  TOTAL,82465,CPT,,,,Outpatient,,,,,UPMC Commercial,JCC001_JCC002 PPO,6.2928,,,,,,,fee schedule,0.9518,30.45,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CHORIPLY  PER SQUARE CENTIMETER,Q4359,HCPCS,,,,Outpatient,,,,,IBC,JCC001 PPO,2884.2,,,,,,,fee schedule,2779.32,4168.98,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -3404,7 +3469,6 @@ COMPATIBILITY TEST ANTIGLOB,86922,CPT,,,,Outpatient,,,,,Aetna Better Health,JCC0
 COMPATIBILITY TEST EACH UNIT     ANTIGLOBULIN TECH,86922,CPT,,,,Outpatient,,,,,Cigna,JCC001_JCC002 PPO,52.2468,,,,,,,fee schedule,11.198,214.97,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 COMPLEMENT FIXATION EACH,86171,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid CHIP,19.53,,,,,,,fee schedule,6.4389,70.07,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 COMPLEMENT; FUNCTIONAL ACTIVITY EACH,86161,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,21.567,,,,,,,fee schedule,8.4,84,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-COMPLETE  SIMPLE  EACH ADDITIONAL NAIL PLATE  LIST SEPARATELY IN ADDITION TO CODE FOR PRIMARY PROCEDURE ",11732,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,33.475,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 COMPLEX AORTIC ARCH PROCEDURES,209,MS-DRG,,,,Inpatient,,,,,Keystone First VIP Choice,JCC001 Medicare,123209,,,,,,,case rate,111906,325483.4128,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 COMPLICATED PEPTIC ULCER WITHOUT CC-MCC,382,MS-DRG,,,,Inpatient,,,,,Horizon BCBS of NJ,JCC001_JCC002 PPO,19795.6356,,,,,,,fee schedule,6137.11,29519.8,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 COMPLICATED PEPTIC ULCER WITHOUT CC-MCC,382,MS-DRG,,,,Inpatient,,,,,United Healthcare Medicare,Medicare ISNP,8547.22,,,,,,,case rate,6137.11,29519.8,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -3441,7 +3505,6 @@ CONCUSSION W-O CC-MCC,90,MS-DRG,,,,Inpatient,,,,,Horizon BCBS of NJ,JCC001_JCC00
 CONCUSSION WITH CC,89,MS-DRG,,,,Inpatient,,,,,Horizon Medicare Blue,JCC001_JCC002 Medicare,11498.7,,,,,,,case rate,8610.87,35256.9,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CONCUSSION WITHOUT CC-MCC,90,MS-DRG,,,,Inpatient,,,,,Innovage,JCC001_JCC002 Medicare,8788.5,,,,,,,case rate,6964.76,27072.2793,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CONCUSSION WITHOUT CC-MCC,90,MS-DRG,,,,Inpatient,,,,,Provider Partners Health Plan,JCC001_JCC002 Medicare,9219.31,,,,,,,case rate,6964.76,27072.2793,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-CONDI OTH THN FRAC DISLOC INCL REMOVAL",21110,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,287.04,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CONDYLECTOMY TEMPOROMANDIBULAR JOINT (S,21050,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,1008.8,,,,,,,fee schedule,1008.8,10200,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CONIZATION OF CERVIX WITH OR WITHOUT FU,57520,CPT,,,FP,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,286.1384,,,,,,,fee schedule,274.95,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 CONJUNCTIVOPLASTY; WITH CONJUNCTIVAL GRA,68320,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,1049.8504,,,,,,,fee schedule,538.564,12000,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -5543,7 +5606,6 @@ DENTAL AND ORAL DISEASES WITH MCC,157,MS-DRG,,,,Inpatient,,,,,IBC Employee Benef
 DENTAL AND ORAL DISEASES WITH MCC,157,MS-DRG,,,,Inpatient,,,,,NaphCare,JCC001_JCC002 Comm FDC PHL,22625.4,,,,,,,case rate,12943.8,55979.5,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 DENTAL AND ORAL DISEASES WITH MCC,MS-DRG 157,CDM,157,MS-DRG,,inpatient,,,,20643.21,,,,,,,,,,,,,Gross charge amount is not available because different codes are used for billing,facility
 DENTAL AND ORAL DISEASES WITHOUT CC-MCC,159,MS-DRG,,,,Inpatient,,,,,NaphCare,JCC001_JCC002 Comm FDC PHL,9337.18,,,,,,,case rate,5449.71,22557.9,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-DENTOALVEOLAR STUCTURES  WITHOUT REPAIR",41825,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,143.767,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 DEOXYRIBONUCLEASE ANTIBODY,86215,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,18.85,,,,,,,fee schedule,9.275,92.75,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 DEOXYRIBONUCLEIC ACID  DNA  ANTIBODY              ,86225,CPT,,,,Outpatient,,,,,UPMC Commercial,JCC001_JCC002 PPO,20.3136,,,,,,,fee schedule,9.618,96.18,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 DEPRESSIVE DISORDERS,7513,APR-DRG,,,,Inpatient,,,,,Keystone First,JCC001 Caid MCO,10949.9158,,,,,,,fee schedule,10596.7017,13453.7744,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -6208,7 +6270,6 @@ ELISA detection of aquaporin-4 (neuromyelitis optica [NMO]) antibody,86051,CPT,,
 ELISA detection of von Willebrand factor (VWF) and collagen IV binding in,0280U,CPT,,,,Outpatient,,,,,VA_Champus_Tricare,JCC001_JCC002 Military,17.27,,,,,,,fee schedule,12.089,120.89,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ELISA evaluation of von Willebrand factor (VWF) type 2N factor VIII and VWF,0284U,CPT,,,,Outpatient,,,,,Keystone First VIP Choice,JCC001 Medicare,17.6154,,,,,,,fee schedule,12.089,120.89,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ELISA measurement of von Willebrand propeptide in plasma specimen diagnostic,0281U,CPT,,,,Outpatient,,,,,Keystone First VIP Choice,JCC001 Medicare,17.6154,,,,,,,fee schedule,12.089,120.89,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-EMBOLIZATION FOR TUMOR DESTRUCTION  PERCUTANEOUS ",S2095,HCPCS,,,,Outpatient,,,,,Aetna,Commercial,9534,,,,,,,fee schedule,5031.68,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 EMERGENCY DEPARTMENT VISIT LOW-MODER SEVERITY,99282,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,39,,,,,,,case rate,39,2391.15,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 EMERGENCY DEPT VISIT HIGH SEVERITY&THREAT FUNCJ,99285,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,3709.12,,,,,,,case rate,233,3709.12,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 EMERGENCY DEPT VISIT HIGH SEVERITY&THREAT FUNCJ,99285,CPT,,,,Outpatient,,,,,United Healthcare,Commercial,2484,,,,,,,case rate,233,3709.12,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -6225,7 +6286,6 @@ ENDOLYMPHATIC SAC OPERATION; WITHOUT SHU,69805,CPT,,,,Outpatient,,,,,PA Health_W
 ENDOMETRIAL CRYOABLATION,58356,CPT,,,,Outpatient,,,,,Aetna Better Health,JCC001_JCC002 CHIP,609.5285,,,,,,,fee schedule,418.08,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ENDOMETRIAL CRYOABLATION,58356,CPT,,,,Outpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHC,575.664,,,,,,,fee schedule,418.08,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ENDOSCOPIC EVALUATION OF SMALL INTESTIN,44385,CPT,,,,Outpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHC,167.7588,,,,,,,fee schedule,121.836,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-ENDOSCOPIC MUCOSAL RESECTION",45349,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,1008.8,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ENDOSCOPIC RETROGRADE CHOLANGIOPANCREATO,43263,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid MCO,2165.04,,,,,,,fee schedule,1008.8,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ENDOSCOPIC RETROGRADE CHOLANGIOPANCREATO,43265,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,1049.8504,,,,,,,fee schedule,1008.8,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 ENDOVASCULAR ABDOMINAL AORTA WITH ILIAC BRANCH PROCEDURES,213,MS-DRG,,,,Inpatient,,,,,Cigna,JCC001_JCC002 Commercial,136754.4447,,,,,,,fee schedule,56422.6,164107.6164,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -6881,7 +6941,6 @@ FOOT PROCEDURES WITH CC,504,MS-DRG,,,,Inpatient,,,,,United Healthcare Medicare,M
 FOOT PROCEDURES WITH MCC,503,MS-DRG,,,,Inpatient,,,,,IBC Main Line Health,JCC001_JCC002 Commercial,36517,,,,,,,case rate,20676.9,86696.3975,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 FOSCARNET 24 MG/ML INTRAVENOUS SOLUTION ,63323-875-50,CDM,J1455,HCPCS,,both,250,ML,1773,2.364,,,,,,,,,,,,,,facility
 FRACTIONATION KETOSTEROIDS,83593,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,16.9,,,,,,,fee schedule,16.9,199.5,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-FRACTURE  PROXIMAL END  NECK  WITH MANIPULATION  WITH OR WITHOUT SKELETAL TRACTION",27232,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,2422,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 FRACTURE OF FEMUR,3402,APR-DRG,,,,Inpatient,,,,,Keystone First,JCC001 Caid MCO,7104.3808,,,,,,,fee schedule,6875.213,8728.9014,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 FRACTURE OF FEMUR,3402,APR-DRG,,,,Inpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,6875.213,,,,,,,fee schedule,6875.213,8728.9014,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 FRACTURE OF PELVIS OR DISLOCATION OF HIP,3411,APR-DRG,,,,Inpatient,,,,,Aetna Better Health,JCC001_JCC002 CHIP,6823.5126,,,,,,,fee schedule,5894.7855,7484.1319,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -19705,7 +19764,6 @@ INTERFERON ALFA-2B 10 MILLION UNIT (1 ML) SOLUTION FOR INJECTION ,0085-4350-01,C
 INTERSTITIAL LUNG DISEASE W CC,197,MS-DRG,,,,Inpatient,,,,,QualCare JCC,Commercial,40372.1,,,,,,,fee schedule,7981.69,40372.1,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 INTERSTITIAL LUNG DISEASE WITHOUT CC-MCC,198,MS-DRG,,,,Inpatient,,,,,Horizon BCBS of NJ,JCC001_JCC002 PPO,17708.7612,,,,,,,fee schedule,5762.37,30854.5,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 INTERSTITIAL LUNG DISEASE WITHOUT CC-MCC,198,MS-DRG,,,,Inpatient,,,,,NaphCare,JCC001_JCC002 Commercial,11994,,,,,,,case rate,5762.37,30854.5,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-INTERTROCHANTERIC  PERTROCHANTERIC OR SUBTROCHANTERIC FEMORAL FRACTURE  WITH MANIPULATION  WITH OR WITHOUT SKIN OR SKELETAL TRAC",27240,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,2422,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 INTMD RPR FACE-MM 5.1-7.5 CM,12053,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid CHIP,132.525,,,,,,,fee schedule,61.75,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 INTMD RPR FACE-MM 5.1-7.5 CM,12053,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid MCO,132.525,,,,,,,fee schedule,61.75,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 INTMD RPR FACE-MM 7.6-12.5CM,12054,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid CHIP,1531.71,,,,,,,fee schedule,45.95,8609,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -21424,7 +21482,6 @@ Knee orthosis modification of supracondylar prosthetic socket custom fabricated 
 Knee orthosis single upright thigh and calf with adjustable flexion and extension joint (unicentric or polycentric) medial-lateral and rotation control with or without varus-valgus adjustment custom f,L1844,HCPCS,,,,Outpatient,,,,,Inspira Life,JCC001_JCC002 Medicare Adv,1865.51,,,,,,,fee schedule,1772.23,7601.95,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 Knee orthosis single upright thigh and calf with adjustable flexion and extension joint (unicentric or polycentric) medial-lateral and rotation control with or without varus-valgus adjustment custom f,L1844,HCPCS,,,,Outpatient,,,,,VA_Champus_Tricare,JCC001_JCC002 Military,1865.51,,,,,,,fee schedule,1772.23,7601.95,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 Knee orthosis swedish type prefabricated off-the-shelf,L1850,HCPCS,,,,Outpatient,,,,,St Agnes,Medicare,227.8,,,,,,,fee schedule,216.41,928.285,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-Knee",27412,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,5332,,,,,,,fee schedule,5332,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 Kyphectomy 1-2 segments,22818,CPT,,,,Outpatient,,,,,Cigna,JCC001_JCC002 PPO,9360,,,,,,,case rate,7800,11515,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 L hrt art-grft angio,93459,CPT,,,,Outpatient,,,,,Aetna,Commercial,11301,,,,,,,case rate,1008.8,12592.8,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 L s ratio fetal lung,83661,CPT,,,,Outpatient,,,,,Horizon BCBS of NJ,JCC001_JCC002 PPO,153.93,,,,,,,fee schedule,15.393,153.93,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -23784,7 +23841,6 @@ NEPH RNA PRETRNSPL PERPH BLD,0319U,CPT,,,,Outpatient,,,,,Aetna,Commercial,12501.
 NEPHRITIS AND NEPHROSIS,4622,APR-DRG,,,,Inpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHIP,9470.6626,,,,,,,fee schedule,8647.1267,10978.5568,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 NEPHRITIS AND NEPHROSIS,4623,APR-DRG,,,,Inpatient,,,,,Keystone First,JCC001 Caid MCO,16716.7614,,,,,,,fee schedule,16177.5248,20539.2937,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 NEPHRITIS AND NEPHROSIS,4623,APR-DRG,,,,Inpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHC,17718.2415,,,,,,,fee schedule,16177.5248,20539.2937,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-NERVE  EG  VAGUS NERVE  NEUROSTIMULATOR ELECTRODE ARRAY  INCLUDING CONNECTION TO EXISTING PULSE GENERATOR",64569,CPT,,,,Outpatient,,,,,Aetna,Commercial,8609,,,,,,,fee schedule,805.84,17335,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 NERVE TEASING PREPARATIONS,88362,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,169.208,,,,,,,fee schedule,19.91,1127.205,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 NERVOUS SYSTEM MALIGNANCY,411,APR-DRG,,,,Inpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,11682.6929,,,,,,,fee schedule,9201.731,11682.6929,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 NERVOUS SYSTEM MALIGNANCY,411,APR-DRG,,,,Inpatient,,,,,Keystone First,JCC001 Caid CHIP,9508.4473,,,,,,,fee schedule,9201.731,11682.6929,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -24169,7 +24225,6 @@ OBSERV HOSP SAME DATE,99235,CPT,,,,Outpatient,,,,,IBC,JCC001 HMO,163.66,,,,,,,fe
 OBSESSIVE COMPULSIVE DISORDERS,7623,APR-DRG,,,,Inpatient,,,,,Health Partners Medicaid,JCC001 JCC002 Caid MCO,12903.7463,,,,,,,fee schedule,12096.9533,15358.5223,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 OCCLUSIVE DEVICE IN VEIN ART,G0269,HCPCS,,,,Outpatient,,,,,Keystone First,JCC001 Caid MCO,2165.04,,,,,,,fee schedule,1008.8,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 OCCULT BLD FECES 1-3 TESTS,82272,CPT,,,,Outpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHIP,6.4977,,,,,,,fee schedule,1.3998,29.61,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-OF PERMANENT PACEMAKER WITH TRANSVENOUS ELECTRODE S   VENTRICULAR",33207,CPT,,,,Outpatient,,,,,Aetna,Commercial,11938,,,,,,,fee schedule,599.534,11938,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 OFFICE CONSULTATION FOR A NEW OR ESTABLI,99242,CPT,,,,Outpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHC,78.581,,,,,,,fee schedule,43.9,122.481,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 OFFICE O P EST SF 10-19 MIN,99212,CPT,,,,Outpatient,,,,,IBC,JCC001 HMO,36.38,,,,,,,fee schedule,36.38,167.4,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 OFFICE-OUTPATIENT VISIT EST,99215,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,78,,,,,,,fee schedule,71.73,217.7595,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -24943,7 +24998,6 @@ PLACE CATH CAROTID-INOM ART,36223,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Ca
 PLACE CATH SUBCLAVIAN ART,36225,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,340.0108,,,,,,,fee schedule,326.716,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 PLACE NEEDLES H&N FOR RT,41019,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,1008.8,,,,,,,fee schedule,958.45,17335,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 PLACE NEEDLES PELVIC FOR RT,55920,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,1049.8504,,,,,,,fee schedule,1008.8,18668,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-PLACEMENT OF ENDOSCOPIC STENT  INCLUDES PRE- AND POST-DILATION AND GUIDE WIRE PASSAGE  WHEN PERFORMED ",45347,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,1008.8,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 PLACEMENT OF SETON,46020,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid CHIP,2165.04,,,,,,,fee schedule,227.123,10200,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 PLASTIC REPAIR OF CLEFT LIP; PRIMARY BIL,40701,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid MCO,2165.04,,,,,,,fee schedule,1008.8,17335,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 PLATELET; AGGREGATION (IN VITRO) ANY AG,85576,CPT,,,,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,38.103,,,,,,,fee schedule,17.437,174.37,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -24981,7 +25035,6 @@ POST >=4SRFC RESINBASE CMPST,D2394,HCPCS,,,,Outpatient,,,,,Keystone First,JCC001
 POST-OPERATIVE POST-TRAUMA OTHER DEVICE INFECTIONS WITH O.R. PROCEDURE,7114,APR-DRG,,,,Inpatient,,,,,Health Partners Medicaid,JCC001 JCC002 Caid MCO,49505.3044,,,,,,,fee schedule,46410.0379,58923.0681,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 POST-OPERATIVE POST-TRAUMATIC OTHER DEVICE INFECTIONS,7212,APR-DRG,,,,Inpatient,,,,,Aetna Better Health,JCC001_JCC002 CHIP,10518.3454,,,,,,,fee schedule,9550.4737,12125.4633,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 POSTERIOR COLPORRHAPHY REPAIR OF RECTOC,57250,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,1049.8504,,,,,,,fee schedule,1008.8,13334,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-POSTEROLATERAL TECHNIQUE  SINGLE LEVEL   THORACIC  WITH LATERAL TRANSVERSE TECHNIQUE  WHEN
 POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC,862,MS-DRG,,,,Inpatient,,,,,St Agnes,Medicare,19088.1,,,,,,,case rate,14485.7,72076.1,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITHOUT MCC,863,MS-DRG,,,,Inpatient,,,,,Cigna,JCC001_JCC002 PPO,28695.6124,,,,,,,fee schedule,8057.57,36788.8,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC,857,MS-DRG,,,,Inpatient,,,,,Geisinger Health Plan,JCC001_JCC002 Commercial,63983.4552,,,,,,,fee schedule,17092.8,77502.2,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -27042,11 +27095,9 @@ SHELTER DM MATRIX  PER SQUARE CENTIMETER,Q4346,HCPCS,,,,Outpatient,,,,,IBC,JCC00
 SHORT-LATENCY SOMATOSENSORY EVOKED POTEN,95925,CPT,,,,Outpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,22.3228,,,,,,,fee schedule,21.45,1867,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 SHORT-LATENCY SOMATOSENSORY EVOKED POTEN,95925,CPT,,,TC,Outpatient,,,,,Aetna Better Health,JCC001_JCC002 CHIP,31.2724,,,,,,,fee schedule,21.45,1867,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 SHORT-LATENCY SOMATOSENSORY EVOKED POTEN,95927,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid MCO,165.9492,,,,,,,fee schedule,42.458,1541.66,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-SHORTENING",25394,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8933,,,,,,,case rate,787.293,12000,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 SHOULDER  ELBOW OR FOREARM PROCEDURES  EXCEPT MAJOR JOINT PROCEDURES WITH CC,MS-DRG 511,CDM,511,MS-DRG,,inpatient,,,,24849.47,,,,,,,,,,,,,Gross charge amount is not available because different codes are used for billing,facility
 SHOULDER AND ELBOW JOINT REPLACEMENT,3222,APR-DRG,,,,Inpatient,,,,,Geisinger Medicaid,JCC001 JCC002 Caid MCO,25654.425,,,,,,,fee schedule,20206.3958,25654.425,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 SHOULDER AND ELBOW JOINT REPLACEMENT,3224,APR-DRG,,,,Inpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHIP,38761.8704,,,,,,,fee schedule,35391.273,44933.4343,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-SHOULDER AREA  SUBCUTANEOUS  3 C M OR GREATER",23071,CPT,,,,Outpatient,,,,,Aetna,Commercial,9534,,,,,,,fee schedule,1008.8,18668,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 SHOULDER ELBOW OR FOREARM PROC EXC MAJOR JOINT PROC W CC,511,MS-DRG,,,,Inpatient,,,,,QualCare JCC,Workers Compensation,27973.7,,,,,,,fee schedule,15424.4,60131.5439,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 SHOULDER ELBOW OR FOREARM PROCEDURES EXCEPT MAJOR JOINT PROCEDURES WITH MCC,510,MS-DRG,,,,Inpatient,,,,,Point of Comfort Refugee Resettlement,Commercial,31614.6,,,,,,,case rate,22297.8,88975.0262,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 SHOULDER UPPER ARM AND FOREARM PROCEDURES EXCEPT JOINT REPLACEMENT,3153,APR-DRG,,,,Inpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,26094.6013,,,,,,,fee schedule,26094.6013,33130.2028,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -27887,7 +27938,6 @@ TTE F-UP OR LMTD,93308,CPT,,,,Outpatient,,,,,Keystone First,JCC001 Caid CHIP,59.
 TTE F-UP OR LMTD,93308,CPT,,,TC,Outpatient,,,,,PA Health_Wellness CHC,JCC001 JCC002 CHC,27.95,,,,,,,fee schedule,27.95,1133,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 TTE W-O DOPPLER COMPLETE,93307,CPT,,,,Outpatient,,,,,Aetna Better Health,JCC001_JCC002 CHIP,266.0622,,,,,,,fee schedule,123.5,2422,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 TTE W-O DOPPLER COMPLETE,93307,CPT,,,TC,Outpatient,,,,,Keystone First,JCC001 Caid MCO,265.05,,,,,,,fee schedule,123.5,2422,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-TUMOR S   PERCUTANEOUS  RADIOFREQUENCY",47382,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8509,,,,,,,case rate,830.622,10011,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 TX PLN MAG FLD ABLTJ PRST8,0738T,CPT,,,,Outpatient,,,,,Aetna,Commercial,274.4786,,,,,,,fee schedule,233.0938,274.4786,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 TX-PRO-DX INJ NEW DRUG ADDON,96375,CPT,,,,Outpatient,,,,,UPMC CHC Medicaid,JCC001 JCC002 CHC,23.2879,,,,,,,fee schedule,16.913,304,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 TX-PROPH-DG ADDL SEQ IV INF,96367,CPT,,,,Outpatient,,,,,Aetna Better Health,JCC001_JCC002 CHIP,36.4656,,,,,,,fee schedule,19.15,558,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -31751,23 +31801,9 @@ Zoledronic acid 1mg__1 MG,J3489,HCPCS,,,,Outpatient,,,,,Horizon Medicare Blue,JC
 Zonisamide level,80203,CPT,,,,Outpatient,,,,,Geisinger Health Plan,JCC001_JCC002 Commercial,53.9938,,,,,,,fee schedule,5.5094,92.75,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 Zonisamide level,80203,CPT,,,,Outpatient,,,,,United Healthcare Medicare,Medicare ISNP,13.515,,,,,,,fee schedule,5.5094,92.75,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 Zonisamide level,80203,CPT,,,,Outpatient,,,,,VA_Champus_Tricare,JCC001_JCC002 Military,13.25,,,,,,,fee schedule,5.5094,92.75,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-and or computerized axial tomography  spinal  other than C1-C2 and posterior fossa ",62284,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,103.402,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 b-Hexosaminidase (enzyme) level,83080,CPT,,,,Outpatient,,,,,Aetna Main Line Health,JCC001_JCC002 Commercial,21.931,,,,,,,fee schedule,11.809,118.09,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-balloon continence device  removal  each balloon",53453,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,3872,,,,,,,fee schedule,1823.18,9360,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-bilateral",58925,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,8226,,,,,,,fee schedule,1281.8,10510,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-bladder catheter  complicated  eg  altered anatomy  fractured catheter balloon ",51703,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,42.68,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-cannula insertion  for timed subcutaneous injection",96377,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,23.387,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-catheter  eg  Swan-Ganz  for monitoring purposes",93503,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,631.36,11301,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-charact",77049,CPT,,,,Outpatient,,,,,Horizon BCBS of NJ,Commercial HMO,3898.55,,,,,,,fee schedule,285.298,3898.55,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-feet and or external genitalia  2.6 cm to
-feet and or external genitalia  2.6 cm to
-feet and or external genitalia  2.6 cm to
-fixation device s  to the endograft  eg  anchor  screw  tack  and all associated radiological supervision and int",34712,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,5332,,,,,,,fee schedule,5332,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 gene analysis,81223,CPT,,,,Outpatient,,,,,UPMC Commercial,JCC001_JCC002 PPO,737.1822,,,,,,,fee schedule,110.7314,3493,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 gene analysis,81243,CPT,,,,Outpatient,,,,,UPMC Commercial,JCC001_JCC002 PPO,84.1662,,,,,,,fee schedule,12.3402,399.28,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-hands  feet  genitalia  lesion diameter 0.5 cm or less",11620,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,118.95,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-initial or repeat",57511,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,60.94,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-internal approach",30000,CPT,,,,Outpatient,,,,,Aetna,Commercial,5750,,,,,,,fee schedule,66.3,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 mRNA expression profiling of 18 genes to detect potential risk of prostate,0403U,CPT,,,,Outpatient,,,,,Jefferson Health Plan ACA QHP Exchange,Commercial Exchange,722,,,,,,,fee schedule,532,5320,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 mRNA expression profiling of 6 single-nucleotide polymorphisms (SNPs) in urine,0420U,CPT,,,,Outpatient,,,,,Highmark,JCC001_JCC002 ACA,3194.3439,,,,,,,fee schedule,1261.904,5412.904,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 mRNA expression profiling of 6 single-nucleotide polymorphisms (SNPs) in urine,0420U,CPT,,,,Outpatient,,,,,Optum VA CCN,JCC001_JCC002 VA CCN,1328.32,,,,,,,fee schedule,1261.904,5412.904,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
@@ -31809,18 +31845,11 @@ mRNA gene expression profiling of 72 genes in whole blood for detection of,0292U
 mRNA gene expression profiling of genes in kidney transplant tissue to evaluate,0088U,CPT,,,,Outpatient,,,,,IBC Employee Benefit,JCC001_JCC002 Commercial,3949.275,,,,,,,fee schedule,2211.594,22115.94,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 mRNA gene expression profiling of genes in kidney transplant tissue to evaluate,0088U,CPT,,,,Outpatient,,,,,Provider Partners Health Plan,JCC001_JCC002 Medicare,3380.5794,,,,,,,fee schedule,2211.594,22115.94,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 mRNA gene expression profiling of genes in kidney transplant tissue to evaluate,0088U,CPT,,,,Outpatient,,,,,UPMC Medicare Advantage,JCC001_JCC002 Medicare Advantage,3317.391,,,,,,,fee schedule,2211.594,22115.94,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-mapping of tachycardia site s  with catheter manipulation to record from multiple sites to identify origin of t",93609,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,11083,,,,,,,fee schedule,304.2,11938,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 miRNA gene expression profiling by RT-PCR of 4 genes in serum reported as risk,0575U,CPT,,,,Outpatient,,,,,Highmark Wholecare Gateway,JCC001_JCC002 Medicare,444.6,,,,,,,fee schedule,361,1548.5,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 miRNA gene expression profiling by RT-PCR of 4 genes in serum reported as risk,0575U,CPT,,,,Outpatient,,,,,UPMC Medicare Advantage,JCC001_JCC002 Medicare Advantage,399,,,,,,,fee schedule,361,1548.5,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 mra w o contrast  followed by w  contrast,C8933,HCPCS,,,,Outpatient,,,,,Horizon BCBS of NJ,JCC001_JCC002 PPO,3079.85,,,,,,,fee schedule,293.72,3079.85,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 mra w o contrast  upper extremity,C8935,HCPCS,,,,Outpatient,,,,,Horizon BCBS of NJ,JCC001_ JCC002 Indemnity,3031.05,,,,,,,fee schedule,186.13,3031.05,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 pH exhaled breath,83987,CPT,,,,Outpatient,,,,,Perennial,JCC001_JCC002 Medicare,4.1528,,,,,,,fee schedule,2.506,50.7501,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-prolapse ",45400,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,5332,,,,,,,fee schedule,5031.68,9534,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 qPCR and digital PCR DNA analysis of 5 single-nucleotide polymorphisms (SNPs),0439U,CPT,,,,Outpatient,,,,,Horizon Medicare Blue,JCC001_JCC002 Medicare,854,,,,,,,fee schedule,811.3,3480.05,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 qPCR-based analysis of 13 differentially methylated regions in pleural fluid,0566U,CPT,,,,Outpatient,,,,,Jefferson Health Plan ACA QHP Exchange,Commercial Exchange,395.941,,,,,,,fee schedule,395.941,1698.3785,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
 qPCR-based analysis of 13 differentially methylated regions in pleural fluid,0566U,CPT,,,,Outpatient,,,,,Keystone First VIP Choice,JCC001 Medicare,425.1156,,,,,,,fee schedule,395.941,1698.3785,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-revascularization by stent placement  initial  normal native connections  unilateral",33900,CPT,,,,Outpatient,,,,,Aetna,Commercial,11938,,,,,,,fee schedule,6446.9,15741,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-system  first order branch  eg  renal vein  jugular vein ",36011,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,148.85,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-through the duodenum for enteric nutrition",43761,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,122.759,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-transvenous sensing lead  List separately in addition to code for primary procedure ",33277,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,2422,,,,,,,fee schedule,2422,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility
-upper adjacent vagina  with endocervical curettage",57456,CPT,,,,Outpatient,,,,,Aetna,Commercial PEBTF,4888,,,,,,,case rate,123.513,5750,The negotiated rate denoted in the standard_charge|negotiated_dollar may be further adjusted based on additional factors.,facility

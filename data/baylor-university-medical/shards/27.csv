@@ -42921,6 +42921,11 @@ DYSEQUILIBRIUM,149,MS-DRG,,,,,,,facility,inpatient,,,,,Sedgwick,Preferred Networ
 DYSEQUILIBRIUM,149,TRIS-DRG,,,,,,,facility,inpatient,,,,,Cigna,Local Plus,,6299.00,,,,,,,6299.00,7411.00,case rate,
 Discontinued Procedure,,,,,,,,,facility,outpatient,,,,,Baylor Scott & White Health Plan,BSW Premier - Small Group,73,,,,,,,,,,,50% of the amount for the item or service to which the modifier is appended
 Discontinued Procedure,,,,,,,,,facility,outpatient,,,,,Sedgwick,Preferred Network,73,,,,,,,,,,,50% of the amount for the item or service to which the modifier is appended
+Double Lung Acquisition Reimbursement,812,RC,,,,,,,facility,inpatient,,,,,Blue Cross Blue Shield,Medicare Advantage,,95848.00,,,,,,,95848.00,285320.50,fee schedule,"In addition to the CMS Allowable, BCBSTX shall reimburse the below Hospitals
+for organ acquisition in accordance with the table immediately below. This reimbursement includes, but is not limited to,
+the evaluation of any Customer (recipient), evaluation of all living donors, organ procurement, ground or air transportation,
+any physician fees relating to organ procurement and preservationist fees. Baylor S&W will notify BCBSTX of any
+adjustments to the below table in accordance with the D-4 worksheet of the CMS cost report. Lung payment is $95,848."
 ECMO/ECLS INSERT CTR 0-5 YO,33900002,CDM,360,RC,33966,CPT,,,facility,outpatient,,,3164.44000,1898.66000,Employers Health Network,EHN Network,,1740.44,,,,,,,420.86,8280.00,percent of total billed charges,
 ECMO/ECLS REM PRPH PRC 0-5 YO,33900006,CDM,360,RC,33966,CPT,,,facility,outpatient,,,3164.44000,1898.66000,HealthSmart,Accel Network,,2215.11,,,,,,,420.86,8280.00,percent of total billed charges,Multiple procedure logic: 100/50/25
 ECMO/ECLS REM PRPH PRC 6+ YO,33900007,CDM,360,RC,33966,CPT,,,facility,outpatient,,,3164.44000,1898.66000,Baylor Scott & White Health Plan,BSW Plus - Large Group/BSW Premier Direct to Employer (Rate 2),,1898.66,,,,,,,420.86,8280.00,percent of total billed charges,Payment not to exceed specific case rate in contract.
