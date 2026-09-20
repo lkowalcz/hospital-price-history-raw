@@ -4,23 +4,312 @@
   "attester_name": "Benjamin Harris",
   "confirm_attestation": true
  },
+ "general_contract_provisions": [
+  {
+   "payer_name": "Aetna",
+   "plan_name": "HMO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $433452, the day the threshold is meet the additional days will be reimbursed $12353 per diem, in additional to the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "HMO-Gated",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $433452, the day the threshold is meet the additional days will be reimbursed $13002 per diem, in additional to the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "PPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $412384, the day the threshold is meet the additional days will be reimbursed $12812 per diem, in additional to the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "PPO-NonGated",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $412384, the day the threshold is meet the additional days will be reimbursed $13485 per diem, in additional to the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "QHP",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $333081, the day the threshold is meet the additional days will be reimbursed $9629 per diem, in additional to the contracted rate."
+  },
+  {
+   "payer_name": "AmeriHealth Caritas ",
+   "plan_name": "HIX",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $459165, reimbursement will be 19% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "ASOEO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "ASOEO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $429627, reimbursement will be 36% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "Empower",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "Empower,Engage,Flex,Focus,Select",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $269865, reimbursement will be 36% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "Engage",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "Flex",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "Focus",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "FullyInsured",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "FullyInsured",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $429627, reimbursement will be 32% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "HIX",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "HIX",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $565691, reimbursement will be 20% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "JacksonFirstNetworkOON",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "JHSSelect",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "JHSSelect,MDCSelect",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $269865, reimbursement will be 36% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "MDCSelect",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "AvMed",
+   "plan_name": "Select",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "BSLNON-PAR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "BSLNON-PAR",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $455263, charges over the threshold will be paid at 22.6% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "BSLNON-PAR",
+   "provisions": "Stop-loss provision: If Outpatient billable gross charges exceed threshold of $146894, charges over the threshold will be paid at 25.1% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "HMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "HMO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $660870, charges over the threshold will be paid at 20.8% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "HMO",
+   "provisions": "Stop-loss provision: If Outpatient billable gross charges exceed threshold of $161545, charges over the threshold will be paid at 14% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "MBN",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "MBN",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $660870, charges over the threshold will be paid at 15.8% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "MBN",
+   "provisions": "Stop-loss provision: If Outpatient billable gross charges exceed threshold of $161545, charges over the threshold will be paid at 11.2% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "NWB",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "NWB,PPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $660870, charges over the threshold will be paid at 18.9% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "NWB,PPO",
+   "provisions": "Stop-loss provision: If Outpatient billable gross charges exceed threshold of $161545, charges over the threshold will be paid at 18.5% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "PHS",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "PHS",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $455263, charges over the threshold will be paid at 22.6% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "PHS",
+   "provisions": "Stop-loss provision: If Outpatient billable gross charges exceed threshold of $146894, charges over the threshold will be paid at 25.1% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "PPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "SBN",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "SBN",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $660870, charges over the threshold will be paid at 20.8% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "SBN",
+   "provisions": "Stop-loss provision: If Outpatient billable gross charges exceed threshold of $161545, charges over the threshold will be paid at 14% of billable gross charges in addition to the contracted rate."
+  },
+  {
+   "payer_name": "Centurion",
+   "plan_name": "GVT",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "HMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "HMO,PPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $488996, reimbursement will be 16.9% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "PPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Molina ",
+   "plan_name": "HIX",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $207000, reimbursement will be 30% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Molina",
+   "plan_name": "MCR",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $288647, reimbursement will be 13% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Oscar",
+   "plan_name": "HIX",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Oscar",
+   "plan_name": "HIX",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $456465, reimbursement will be 19% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Simply Healthcare",
+   "plan_name": "HIX",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Simply Healthcare",
+   "plan_name": "HIX",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $464683, reimbursement will be 17.8% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Sunshine State Health Plan",
+   "plan_name": "QHP",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $315042, reimbursement will be $7756 per diem instead of the contracted rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "AllPayerAppendix",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "GVT",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United Behavioral Health",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United Behavioral Health",
+   "plan_name": "VACCN",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United PPO",
+   "plan_name": "OptionsPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  }
+ ],
  "hospital_address": [
-  "10915 NW 41ST ST, DORAL, FL, 33178",
+  "14190 SW 288 St, HOMESTEAD, FL, 33033",
   "19605 S DIXIE HWY, CUTLER BAY, FL, 33157",
+  "10915 NW 41ST ST, DORAL, FL, 33178",
   "11800 SHERRI LN, MIAMI, FL, 33183",
   "11750 BIRD RD, MIAMI, FL, 33175"
  ],
  "hospital_name": "HCA FLORIDA KENDALL HOSPITAL",
- "last_updated_on": "2026-03-01",
+ "last_updated_on": "2026-09-01",
  "license_information": {
   "license_number": "4344",
   "state": "FL"
  },
  "location_name": [
   "HCA FLORIDA DORAL EMERGENCY",
-  "HCA FLORIDA CUTLER BAY FSER",
   "HCA FLORIDA TOWN AND COUNTRY EMERGENCY",
-  "HCA FLORIDA KENDALL HOSPITAL"
+  "HCA FLORIDA KENDALL HOSPITAL",
+  "HCA FLORIDA SOUTH DADE FSER",
+  "HCA FLORIDA CUTLER BAY FSER"
  ],
  "type_2_npi": [
   "1710931522"
