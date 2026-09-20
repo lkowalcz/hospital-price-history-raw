@@ -4,25 +4,367 @@
   "attester_name": "Robert Sabina",
   "confirm_attestation": true
  },
+ "general_contract_provisions": [
+  {
+   "payer_name": "Aetna",
+   "plan_name": "ASAHMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "ASAHMO,ASAPOS",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1287721, reimbursement will be 33.7% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "ASAPOS",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "ASAPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "ASAPPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1064515, reimbursement will be 39.3% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "COMMHMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "COMMHMO,COMMPOS",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1287721, reimbursement will be 26.4% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "COMMPOS",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "COMMPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "COMMPPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1064515, reimbursement will be 31% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "NBHMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "NBHMO,NBPOS",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1287721, reimbursement will be 25.1% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "NBPOS",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "NBPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "NBPPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1064515, reimbursement will be 29.1% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "OONHMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "OONHMO,OONPOS",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1287721, reimbursement will be 31.3% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "OONPOS",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "OONPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "OONPPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1064515, reimbursement will be 36.3% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Amerigroup",
+   "plan_name": "DualEligible",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Amerigroup",
+   "plan_name": "MCDCHIPBH",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Amerigroup",
+   "plan_name": "MGMCD",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "BAV",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "EPOSOA",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "HMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "MedicareAdvantageHMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "MyBlueHealth",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "PPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Christus (USFHP)",
+   "plan_name": "TRICARE",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "CSN",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "OpenAccessPlus",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "PPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Community Health Choice",
+   "plan_name": "HIX",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Community Health Choice MCD",
+   "plan_name": "CHIP",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Community Health Choice MCD",
+   "plan_name": "CHIPPerinatal",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Community Health Choice MCD",
+   "plan_name": "STAR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Community Health Choice MCD",
+   "plan_name": "STAR+PLUS",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Coventry National First Health",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Coventry National First Health",
+   "plan_name": "COMM",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $81239, reimbursement will be 53.5% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Curative Administrators",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Curative Administrators",
+   "plan_name": "COMM",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $365316, reimbursement will be 29.7% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Employer Direct",
+   "plan_name": "COMM",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $250000, reimbursement will be 20% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Employer Direct",
+   "plan_name": "COMM",
+   "provisions": "Stop-loss provision: If Outpatient billable gross charges exceed threshold of $250000, reimbursement will be 20% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Evry Health",
+   "plan_name": "BroadNetwork",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Evry Health",
+   "plan_name": "BroadNetwork",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $381413, reimbursement will be 29.2% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Healthcare Highways",
+   "plan_name": "NarrowNetwork",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Healthcare Highways",
+   "plan_name": "NarrowNetwork",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $528515, reimbursement will be 21.4% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Humana",
+   "plan_name": "HMO,PPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $539380, reimbursement will be 27.37% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Molina Healthcare",
+   "plan_name": "HIX",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Multiplan",
+   "plan_name": "ComplementaryNetwork",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Multiplan",
+   "plan_name": "PHCSPrimaryNetwork",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Oscar",
+   "plan_name": "HIX",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Oscar",
+   "plan_name": "HIX",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $987881, reimbursement will be 18.5% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Superior",
+   "plan_name": "EPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Superior",
+   "plan_name": "EPO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $165000, reimbursement will be the lesser of (a) 31.1% of billable gross charges, or (b) $6500 multiplied by the number of medically necessary days."
+  },
+  {
+   "payer_name": "Superior",
+   "plan_name": "HMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Superior",
+   "plan_name": "HMO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $165000, reimbursement will be the lesser of (a) 31.1% of billable gross charges, or (b) $6500 multiplied by the number of medically necessary days."
+  },
+  {
+   "payer_name": "Superior",
+   "plan_name": "ValueHMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Superior",
+   "plan_name": "ValueHMO",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $165000, reimbursement will be the lesser of (a) 38% of billable gross charges, or (b) $6500 multiplied by the number of medically necessary days."
+  },
+  {
+   "payer_name": "Superior Health Plan",
+   "plan_name": "CHIP,CHPFC,STAR,STARKids,STARPLUS",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $125000, reimbursement will be the lesser of (a) 11% of billable gross charges, or (b) $2905 multiplied by the number of medically necessary days."
+  },
+  {
+   "payer_name": "TriWest Health Alliance",
+   "plan_name": "TRCR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "AllPayerAppendix",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "GlobalAppendix",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "NarrowNetworkIndivExchange",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "OptionsPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "SmallGroup",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Verda Health Plan",
+   "plan_name": "MCR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  }
+ ],
  "hospital_address": [
-  "1313 Hermann Dr, Houston, TX, 77004",
-  "1925 E TC JESTER BLVD, HOUSTON, TX, 77008",
   "3209 MONTROSE BLVD, HOUSTON, TX, 77006",
+  "1014 WIRT RD, HOUSTON, TX, 77055",
+  "1925 E TC JESTER BLVD, HOUSTON, TX, 77008",
   "5413 S RICE AVE, HOUSTON, TX, 77081",
-  "1014 WIRT RD, HOUSTON, TX, 77055"
+  "1313 Hermann Dr, Houston, TX, 77004"
  ],
  "hospital_name": "HCA HOUSTON HEALTHCARE MEDICAL CENTER",
- "last_updated_on": "2026-03-01",
+ "last_updated_on": "2026-09-01",
  "license_information": {
   "license_number": "100410",
   "state": "TX"
  },
  "location_name": [
-  "HCA HOUSTON HEALTHCARE MEDICAL CENTER",
+  "HCA HOUSTON ER 24/7 - MEMORIAL CITY FSER",
   "HCA HOUSTON ER 24/7 - HEIGHTS FSER",
   "HCA HOUSTON ER 24/7 - MONTROSE FSER",
   "HCA HOUSTON ER 24/7 - BELLAIRE FSER",
-  "HCA HOUSTON ER 24/7 - MEMORIAL CITY FSER"
+  "HCA HOUSTON HEALTHCARE MEDICAL CENTER"
  ],
  "type_2_npi": [
   "1073043592"
