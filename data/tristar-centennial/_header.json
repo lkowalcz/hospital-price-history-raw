@@ -1,0 +1,310 @@
+{
+ "attestation": {
+  "attestation": "To the best of its knowledge and belief, this hospital has included all applicable standard charge information in accordance with the requirements of 45 CFR 180.50, and the information encoded is true, accurate, and complete as of the date in the file. This hospital has included all payer-specific negotiated charges in dollars that can be expressed as a dollar amount. For payer-specific negotiated charges that cannot be expressed as a dollar amount in the machine-readable file or not knowable in advance, the hospital attests that the payer-specific negotiated charge is based on a contractual algorithm, percentage or formula that precludes the provision of a dollar amount and has provided all necessary information available to the hospital for the public to be able to derive the dollar amount, including, but not limited to, the specific fee schedule or components referenced in such percentage, algorithm or formula.",
+  "attester_name": "Thomas Ozburn",
+  "confirm_attestation": true
+ },
+ "general_contract_provisions": [
+  {
+   "payer_name": "Aetna",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "COMM",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $459070, reimbursement will be 37% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "COMMTransplant",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "MGMCRHMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "MGMCRPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "MGMCRSNP",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "NAP",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "NewBusiness",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Aetna",
+   "plan_name": "NewBusiness",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $459070, reimbursement will be 31% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Ambetter",
+   "plan_name": "CORE",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Ambetter",
+   "plan_name": "CORE",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $354700, reimbursement will be the lesser of (a) 25.9% of billable gross charges, or (b) $7537 multiplied by the number of medically necessary days."
+  },
+  {
+   "payer_name": "Ambetter",
+   "plan_name": "Select",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Ambetter",
+   "plan_name": "Select",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $328426, reimbursement will be $6968 per diem instead of the contracted rate."
+  },
+  {
+   "payer_name": "Amerigroup",
+   "plan_name": "MGMCR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "ATRIO Golden Times",
+   "plan_name": "MCR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "BlueCare",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "BlueDistinctionBMT",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "COVERKIDS",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "NetworkP",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "BCBS",
+   "plan_name": "TENNCARE",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Beech Street",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Bright Health",
+   "plan_name": "HIX",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $328426, reimbursement will be 25% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Bright Health",
+   "plan_name": "SmallGroup",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $304098, reimbursement will be 27% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Centurion",
+   "plan_name": "PRISON",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "NewBusiness",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "NewBusiness",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $446153, reimbursement will be 25.1% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "OAP",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "OAP",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $446143, reimbursement will be 28.5% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Cigna",
+   "plan_name": "PPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna Evernorth Behavioral Health",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Cigna LifeSource",
+   "plan_name": "PPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Emerging Therapy Solutions",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Emerging Therapy Solutions",
+   "plan_name": "COMM",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $1080000, reimbursement will be 49% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "Emerging Therapy Solutions",
+   "plan_name": "MGMCR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Evergreen HMO",
+   "plan_name": "MCR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Humana National Transplant",
+   "plan_name": "MCRHMO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Humana National Transplant",
+   "plan_name": "MCRPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Humana National Transplant",
+   "plan_name": "PFFS",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Multiplan",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Multiplan",
+   "plan_name": "COMM",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $212498, reimbursement will be 37.5% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "OptumHealth",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "OptumHealth",
+   "plan_name": "MCD",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "OptumHealth",
+   "plan_name": "MCR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Oscar",
+   "plan_name": "HIX",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Oscar",
+   "plan_name": "HIX",
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $446819, reimbursement will be 21.1% of billable gross charges instead of the contracted rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "AllPayerAppendix",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "Core",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "GlobalBenefitPlan",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "HeritageSelect",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "OptionsPPO",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "TENNCARE",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United",
+   "plan_name": "VACCN",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United Behavioral Health",
+   "plan_name": "COMM",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "United Behavioral Health",
+   "plan_name": "MCR",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  },
+  {
+   "payer_name": "Wellpoint",
+   "plan_name": "MGMCD",
+   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
+  }
+ ],
+ "hospital_address": [
+  "7734 Hwy 70 S, NASHVILLE, TN, 37221",
+  "2300 PATTERSON ST., NASHVILLE, TN, 37203",
+  "3001 RESERVE BLVD, SPRING HILL, TN, 37174",
+  "2300 PATTERSON ST., NASHVILLE, TN, 37203",
+  "2300 PATTERSON ST., NASHVILLE, TN, 37203",
+  "2300 PATTERSON ST., NASHVILLE, TN, 37203"
+ ],
+ "hospital_name": "TRISTAR CENTENNIAL MEDICAL CENTER",
+ "last_updated_on": "2026-09-01",
+ "license_information": {
+  "license_number": "136",
+  "state": "TN"
+ },
+ "location_name": [
+  "TRISTAR SPRING HILL ER",
+  "TRISTAR BELLEVUE FSER",
+  "TRISTAR CENTENNIAL WOMEN'S HOSPITAL",
+  "TRISTAR CENTENNIAL MEDICAL CENTER",
+  "TRISTAR CENTENNIAL CHILDREN'S HOSPITAL",
+  "TRISTAR CENTENNIAL PARTHENON PAVILION"
+ ],
+ "type_2_npi": [
+  "1023055126"
+ ],
+ "version": "3.0.0"
+}
