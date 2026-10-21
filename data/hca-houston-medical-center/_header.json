@@ -327,11 +327,6 @@
   },
   {
    "payer_name": "United",
-   "plan_name": "NarrowNetworkIndivExchange",
-   "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
-  },
-  {
-   "payer_name": "United",
    "plan_name": "OptionsPPO",
    "provisions": "Lesser-of provision: Reimbursement for all services will be the lessor of Billed Gross Charges or the contracted Rate."
   },
@@ -347,10 +342,10 @@
   }
  ],
  "hospital_address": [
-  "3209 MONTROSE BLVD, HOUSTON, TX, 77006",
-  "1014 WIRT RD, HOUSTON, TX, 77055",
-  "1925 E TC JESTER BLVD, HOUSTON, TX, 77008",
   "5413 S RICE AVE, HOUSTON, TX, 77081",
+  "1925 E TC JESTER BLVD, HOUSTON, TX, 77008",
+  "1014 WIRT RD, HOUSTON, TX, 77055",
+  "3209 MONTROSE BLVD, HOUSTON, TX, 77006",
   "1313 Hermann Dr, Houston, TX, 77004"
  ],
  "hospital_name": "HCA HOUSTON HEALTHCARE MEDICAL CENTER",
@@ -360,10 +355,10 @@
   "state": "TX"
  },
  "location_name": [
-  "HCA HOUSTON ER 24/7 - MEMORIAL CITY FSER",
-  "HCA HOUSTON ER 24/7 - HEIGHTS FSER",
-  "HCA HOUSTON ER 24/7 - MONTROSE FSER",
   "HCA HOUSTON ER 24/7 - BELLAIRE FSER",
+  "HCA HOUSTON ER 24/7 - HEIGHTS FSER",
+  "HCA HOUSTON ER 24/7 - MEMORIAL CITY FSER",
+  "HCA HOUSTON ER 24/7 - MONTROSE FSER",
   "HCA HOUSTON HEALTHCARE MEDICAL CENTER"
  ],
  "type_2_npi": [

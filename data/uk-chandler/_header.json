@@ -4,9 +4,6 @@
   "attester_name": "Elaine Younce",
   "confirm_attestation": true
  },
- "financial_aid_policy": [
-  "60% off of facility standard gross charges."
- ],
  "hospital_address": [
   "800 Rose Street, Lexington, KY 40536",
   "310 S Limestone, Lexington, KY 40508"
@@ -29,21 +26,6 @@
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Aetna",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Aetna",
-     "plan_name": "Better Health Medicaid Managed Care Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Aetna",
-     "plan_name": "KDMC Other Commercial Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Aetna",
      "plan_name": "Medicare Managed Care Plan"
     },
     {
@@ -59,42 +41,7 @@
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "BCBS",
-     "plan_name": "Anthem All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "BCBS",
-     "plan_name": "Anthem BDCT Transplant"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "BCBS",
-     "plan_name": "Anthem CME Transplant"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "BCBS",
-     "plan_name": "Anthem HMO Exchange"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "BCBS",
-     "plan_name": "Anthem HPN Other Commercial Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "BCBS",
      "plan_name": "Anthem Medicare Managed Care Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "BCBS",
-     "plan_name": "Anthem Pathway Transition HMO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "BCBS",
-     "plan_name": "Anthem UK Health Plan Other Commercial Plan"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -103,48 +50,8 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Center Care",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "First Health/Coventry",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Healthlink",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Humana",
-     "plan_name": "Healthy Horizons Medicaid Managed Care Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Humana",
      "plan_name": "Medicare Managed Care Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "K and K",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "KY Racing and Health Welfare",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Molina Healthcare",
-     "plan_name": "Passport Medicaid Managed Care Plan"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -153,53 +60,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Multiplan",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Naphcare",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Optum",
-     "plan_name": "Transplant Medicaid Managed Care Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Optum",
      "plan_name": "Transplant Medicare Managed Care Plan"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Seven Corners",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Signature",
      "plan_name": "Medicare Managed Care Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "The Health Plan",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "UK Athletic Association",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "UnitedHealthCare",
-     "plan_name": "All Commercial Plans"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "UnitedHealthCare",
-     "plan_name": "Community Plan Medicaid Managed Care Plan"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -214,18 +81,13 @@
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Wellcare",
-     "plan_name": "Medicaid Managed Care Plan"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Wellcare",
      "plan_name": "Medicare Managed Care Plan"
     }
    ]
   }
  ],
  "type_2_npi": [
-  "1902214448"
+  "1518911338"
  ],
  "version": "3.0.0"
 }
