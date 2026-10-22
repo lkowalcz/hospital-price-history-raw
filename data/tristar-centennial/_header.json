@@ -143,7 +143,7 @@
   {
    "payer_name": "Cigna",
    "plan_name": "OAP",
-   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $446143, reimbursement will be 28.5% of billable gross charges instead of the contracted rate."
+   "provisions": "Stop-loss provision: If Inpatient billable gross charges exceed threshold of $446154, reimbursement will be 28.5% of billable gross charges instead of the contracted rate."
   },
   {
    "payer_name": "Cigna",
@@ -284,10 +284,10 @@
  "hospital_address": [
   "7734 Hwy 70 S, NASHVILLE, TN, 37221",
   "2300 PATTERSON ST., NASHVILLE, TN, 37203",
-  "3001 RESERVE BLVD, SPRING HILL, TN, 37174",
   "2300 PATTERSON ST., NASHVILLE, TN, 37203",
   "2300 PATTERSON ST., NASHVILLE, TN, 37203",
-  "2300 PATTERSON ST., NASHVILLE, TN, 37203"
+  "2300 PATTERSON ST., NASHVILLE, TN, 37203",
+  "3001 RESERVE BLVD, SPRING HILL, TN, 37174"
  ],
  "hospital_name": "TRISTAR CENTENNIAL MEDICAL CENTER",
  "last_updated_on": "2026-09-01",
@@ -296,12 +296,12 @@
   "state": "TN"
  },
  "location_name": [
-  "TRISTAR SPRING HILL ER",
   "TRISTAR BELLEVUE FSER",
-  "TRISTAR CENTENNIAL WOMEN'S HOSPITAL",
-  "TRISTAR CENTENNIAL MEDICAL CENTER",
   "TRISTAR CENTENNIAL CHILDREN'S HOSPITAL",
-  "TRISTAR CENTENNIAL PARTHENON PAVILION"
+  "TRISTAR CENTENNIAL MEDICAL CENTER",
+  "TRISTAR CENTENNIAL PARTHENON PAVILION",
+  "TRISTAR CENTENNIAL WOMEN'S HOSPITAL",
+  "TRISTAR SPRING HILL ER"
  ],
  "type_2_npi": [
   "1023055126"
