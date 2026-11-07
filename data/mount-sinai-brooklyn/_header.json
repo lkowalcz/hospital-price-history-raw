@@ -13,7 +13,7 @@
  "hospital_name": "Mount Sinai Brooklyn",
  "last_updated_on": "2026-04-01",
  "license_information": {
-  "license_number": "7002024H",
+  "license_number": "7002002H",
   "state": "NY"
  },
  "location_name": [
@@ -26,13 +26,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -56,23 +66,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -106,16 +116,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -141,13 +141,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -307,13 +307,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -337,23 +347,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -387,16 +397,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -422,13 +422,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -588,13 +588,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -618,23 +628,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -668,16 +678,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -703,13 +703,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -869,13 +869,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -899,23 +909,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -949,16 +959,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -984,13 +984,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1150,13 +1150,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1180,23 +1190,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1230,16 +1240,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -1265,13 +1265,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1431,13 +1431,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1461,23 +1471,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1511,16 +1521,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -1546,13 +1546,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1712,13 +1712,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1742,23 +1752,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1792,16 +1802,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -1827,13 +1827,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -1993,13 +1993,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2023,23 +2033,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2073,16 +2083,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -2108,13 +2108,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2274,13 +2274,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2304,23 +2314,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2354,16 +2364,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -2389,13 +2389,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2555,13 +2555,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2585,23 +2595,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2635,16 +2645,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -2670,13 +2670,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2836,13 +2836,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2866,23 +2876,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -2916,16 +2926,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -2951,13 +2951,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3117,13 +3117,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3147,23 +3157,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3197,16 +3207,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -3232,13 +3232,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3398,13 +3398,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3428,23 +3438,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3478,16 +3488,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -3513,13 +3513,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3679,13 +3679,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3709,23 +3719,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3759,16 +3769,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -3794,13 +3794,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3960,13 +3960,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -3990,23 +4000,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4040,16 +4050,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -4075,13 +4075,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4241,13 +4241,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4271,23 +4281,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4321,16 +4331,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -4356,13 +4356,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4522,13 +4522,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4552,23 +4562,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4602,16 +4612,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -4637,13 +4637,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4803,13 +4803,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4833,23 +4843,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -4883,16 +4893,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -4918,13 +4918,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5084,13 +5084,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5114,23 +5124,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5164,16 +5174,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -5199,13 +5199,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5365,13 +5365,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5395,23 +5405,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5445,16 +5455,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -5480,13 +5480,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5646,13 +5646,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5676,23 +5686,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5726,16 +5736,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -5761,13 +5761,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5927,13 +5927,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -5957,23 +5967,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6007,16 +6017,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -6042,13 +6042,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6208,13 +6208,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6238,23 +6248,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6288,16 +6298,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -6323,13 +6323,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6489,13 +6489,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6519,23 +6529,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6569,16 +6579,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -6604,13 +6604,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6770,13 +6770,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6800,23 +6810,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -6850,16 +6860,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -6885,13 +6885,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7051,13 +7051,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7081,23 +7091,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7131,16 +7141,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -7166,13 +7166,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7332,13 +7332,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7362,23 +7372,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7412,16 +7422,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -7447,13 +7447,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7613,13 +7613,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7643,23 +7653,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7693,16 +7703,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -7728,13 +7728,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7894,13 +7894,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7924,23 +7934,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -7974,16 +7984,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -8009,13 +8009,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8175,13 +8175,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8205,23 +8215,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8255,16 +8265,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -8290,13 +8290,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8456,13 +8456,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8486,23 +8496,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8536,16 +8546,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -8571,13 +8571,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8737,13 +8737,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8767,23 +8777,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -8817,16 +8827,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -8852,13 +8852,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9018,13 +9018,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9048,23 +9058,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9098,16 +9108,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -9133,13 +9133,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9299,13 +9299,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9329,23 +9339,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9379,16 +9389,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -9414,13 +9414,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9580,13 +9580,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9610,23 +9620,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9660,16 +9670,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -9695,13 +9695,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9861,13 +9861,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9891,23 +9901,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -9941,16 +9951,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -9976,13 +9976,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -10142,13 +10142,23 @@
    "modifier_payer_information": [
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "1199 SEIU",
-     "plan_name": "Commercial"
+     "payer_name": "Empire",
+     "plan_name": "Blue Priority HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "LocalPlus"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "Blue Priority HMO"
+     "plan_name": "HMO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "1199 SEIU",
+     "plan_name": "Commercial"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -10172,23 +10182,23 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "LocalPlus"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
      "plan_name": "Connection"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
      "payer_name": "Empire",
-     "plan_name": "HMO"
+     "plan_name": "Blue Access"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Empire",
-     "plan_name": "Blue Access"
+     "payer_name": "Cigna",
+     "plan_name": "PPO"
+    },
+    {
+     "description": "The modified price is presented in the standard charge value.",
+     "payer_name": "Cigna",
+     "plan_name": "HMO/OAP"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -10222,16 +10232,6 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "PPO"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Cigna",
-     "plan_name": "HMO/OAP"
-    },
-    {
-     "description": "The modified price is presented in the standard charge value.",
      "payer_name": "MetroPlus",
      "plan_name": "Medicare Advantage"
     },
@@ -10257,13 +10257,13 @@
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Oscar",
-     "plan_name": "Individual"
+     "payer_name": "Emblem",
+     "plan_name": "HMO"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
-     "payer_name": "Emblem",
-     "plan_name": "HMO"
+     "payer_name": "Oscar",
+     "plan_name": "Individual"
     },
     {
      "description": "The modified price is presented in the standard charge value.",
@@ -10419,7 +10419,7 @@
   }
  ],
  "type_2_npi": [
-  "1780111484"
+  "1174768071"
  ],
  "version": "3.0.0"
 }
